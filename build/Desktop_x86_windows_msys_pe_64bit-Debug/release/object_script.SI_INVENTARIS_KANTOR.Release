@@ -1,0 +1,13 @@
+release/admin.o
+release/inventarisadmin.o
+release/inventariskantor.o
+release/login.o
+release/main.o
+release/mainwindow.o
+release/profil.o
+release/moc_admin.o
+release/moc_inventarisadmin.o
+release/moc_inventariskantor.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_profil.o

@@ -1,0 +1,13 @@
+debug/admin.o
+debug/inventarisadmin.o
+debug/inventariskantor.o
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/profil.o
+debug/moc_admin.o
+debug/moc_inventarisadmin.o
+debug/moc_inventariskantor.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_profil.o
